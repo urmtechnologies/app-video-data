@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "version": "1.0",
+  "videos": [
+    {
+      "id": "video-001",
+      "title": "Test Video 1",
+      "thumbnail": "https://example.com/thumb1.jpg",
+      "video_url": "https://example.com/video1.mp4",
+      "slug": "test-video-1",
+      "active": true
+    },
+    {
+      "id": "video-002",
+      "title": "Test Video 2",
+      "thumbnail": "https://example.com/thumb2.jpg",
+      "video_url": "https://example.com/video2.mp4",
+      "slug": "test-video-2",
+      "active": true
+    }
+  ]
+}
